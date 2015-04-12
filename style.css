@@ -277,7 +277,7 @@ a:hover.more-link{
 	min-width: 170px;
 }
 
-#nav #menu-primary{
+#nav .menu-primary{
 	position: relative;
 	width: 100%;
 }
